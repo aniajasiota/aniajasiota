@@ -1,8 +1,5 @@
 ## 👋 Hi, I'm Anna! 
 
-<!--
-**aniajasiota/aniajasiota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🎓 About Me
 Second-year Computer Science student
 
@@ -24,4 +21,4 @@ Experienced with: C, C++, C#, Python, HTML, CSS, SQL
 
 🚀 Let's Connect!
 I'm always open to collaboration and new opportunities. Feel free to reach out!
--->
+
