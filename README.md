@@ -1,24 +1,19 @@
-## 👋 Hi, I'm Anna! 
+### 👋 Hi, I'm Anna!  
 
-🎓 About Me
-Second-year Computer Science student
+#### 🎓 About Me  
+- **Second-year Computer Science student**  
+- Passionate about coding and technology  
+- Always eager to learn and improve my skills  
 
-Passionate about coding and technology
+#### 💻 Tech Stack  
+- Experienced with: **C, C++, C#, Python, HTML, CSS, SQL**  
 
-Always eager to learn and improve my skills
+#### 🎯 Hobbies & Interests  
+- 💃 **Dancing**  
+- 🏋️ **Working out at the gym**  
+- ⛰️ **Hiking**  
+- ✈️ **Traveling**  
 
-💻 Tech Stack
-Experienced with: C, C++, C#, Python, HTML, CSS, SQL
-
-🎯 Hobbies & Interests
-💃 Dancing
-
-🏋️ Working out at the gym
-
-⛰️ Hiking
-
-✈️ Traveling
-
-🚀 Let's Connect!
+#### 🚀 Let's Connect!  
 I'm always open to collaboration and new opportunities. Feel free to reach out!
 
