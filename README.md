@@ -12,7 +12,8 @@
 - 💃 **Dancing**  
 - 🏋️ **Working out at the gym**  
 - ⛰️ **Hiking**  
-- ✈️ **Traveling**  
+- ✈️ **Traveling**
+- 📚 **Reading**  
 
 #### 🚀 Let's Connect!  
 I'm always open to collaboration and new opportunities. Feel free to reach out!
